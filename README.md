@@ -1,6 +1,6 @@
 A homework manager for students.
 
-Functionality implemented using Java and GUI was created with Swing. 
+Functionality implemented using Java and GUI was created with Swing.
 
 <img width="812" alt="Screen Shot 2019-07-08 at 3 24 37 AM" src="https://user-images.githubusercontent.com/50262000/60803765-c957fe00-a130-11e9-8c46-8d95185d944a.png">
 
